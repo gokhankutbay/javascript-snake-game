@@ -1,8 +1,10 @@
 # javascript-snake-game
 
+![foto-gif](https://gokhankutbay.com/assets/img/works/gorsel2.png)
+
 ### Please share to support me. Thank you in advance. Use it on good days.
 
-[www.gokhankutbay.ml](https://www.gokhankutbay.ml/)
+[www.gokhankutbay.com](https://www.gokhankutbay.com/)
 
 ### Follow me;
 
